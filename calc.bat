@@ -1,1 +1,1 @@
-calc
+java -version
