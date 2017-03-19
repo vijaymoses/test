@@ -1,4 +1,4 @@
 cd Main
-del /s *.*
+del /s /q *.*
 xcopy /s F:\git_working\Main ..\Main
 call navigate.bat
