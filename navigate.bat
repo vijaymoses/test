@@ -1,5 +1,5 @@
-cd ../automation_1
-call calc.bat
+cd Main
+call navigate.bat
 powershell -command "Start-Sleep -s 5"
 cd ../automation_2
 call calc.bat
